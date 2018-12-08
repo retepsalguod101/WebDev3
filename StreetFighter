@@ -1,7 +1,7 @@
 <html>
     <head>
         <link rel="stylesheet" href="styles.css">
-        <link rel="shortcut icon" href="assets/images/heavy-rain-hd-origami-two-column-01-ps4-eu-09mar16.png" /> 
+        <link rel="shortcut icon" href="Street_Fighter_Logo.png" /> 
         
     </head>
     <body>
@@ -57,7 +57,7 @@
                     <td>Single-player/ Two-player</td>
                 </tr>
             </table>
-            <img id="pic2" src="assets/images/BioShock_cover_2.jpg" alt="BioShock" title="BioShock"/>
+            <img id="pic2" src="StreetFighter1.jpg" alt="StreetFighter" title="StreetFighter"/>
         </div>   
         <div class="rightcolumn">
             <div class="main">
