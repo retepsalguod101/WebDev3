@@ -6,7 +6,7 @@
     <body>
         <div class="navbar">
             <div class="dropdown">
-              <button class="dropbtn">PlayStation 3 
+              <button class="dropbtn">Arcade
               <i class="fa fa-caret-down"></i>
               </button>
               <div class="dropdown-content">
