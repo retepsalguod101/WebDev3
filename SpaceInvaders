@@ -67,15 +67,13 @@
                 <p>The game has been the inspiration for other video games, re-released on numerous platforms, and led to several sequels. The 1980 Atari 2600 version quadrupled the system's sales and became the first "killer app" for video game consoles. Space Invaders has been referenced and parodied in multiple television shows, and been a part of several video game and cultural exhibitions. The pixelated enemy alien has become a pop culture icon, often representing video games as a whole.</p>
             </div>
             <div id="trailer">
-                <div style="position:relative;height:0;padding-bottom:56.27%"><iframe src="https://www.youtube.com/embed/MU4psw3ccUI?ecver=2" style="position:absolute;width:100%;height:100%;left:0" width="640" height="360" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
-                </iframe>
+               <iframe width="964" height=" 542" src="https://www.youtube.com/embed/MU4psw3ccUI?ecver=2" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
             </div>
         </div>
         <div class="footer">
             <h2>
-                <a href="http://www.bioshockgame.com/">Official Website</a>
-                |
-                <a href="https://www.amazon.de/2K-Games-40116-Bioshock/dp/B001BYIGE6/ref=sr_1_2?s=videogames&ie=UTF8&qid=1544178871&sr=1-2&keywords=bioshock+ps3" target="_blank">Buy the game</a>
+                <a href="https://www.space-invaders.com/home/">Official Website</a>
+                <a href="http://www.freeinvaders.org/">Play the game</a>
             </h2>
         </div>
     </body>
