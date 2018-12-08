@@ -1,7 +1,7 @@
 <html>
     <head>
         <link rel="stylesheet" href="assets/styles/styles.css">
-        <link rel="shortcut icon" href="assets/images/Bioshock-3-icon.png" />  
+        <link rel="shortcut icon" href="SpaceInvaders1.png" />  
     </head>
     <body>
         <div class="navbar">
@@ -25,7 +25,7 @@
         </div>
         <br>
         <div class="leftcolumn">
-            <img id="pic" src="assets/images/BioShock_cover.jpg" alt="Bioshock" title="Bioshock"/>
+            <img id="pic" src="SpaceInvaders2.png" alt="SpaceInvaders" title="SpaceInvaders"/>
             <table class="table">
                 <tr>
                     <th>Developer</th>
@@ -56,7 +56,7 @@
                     <td>Single-player</td>
                 </tr>
             </table>
-            <img id="pic2" src="assets/images/BioShock_cover_2.jpg" alt="BioShock" title="BioShock"/>
+            <img id="pic2" src="SpaceInvaders2.jpg" alt="SpaceInvaders" title="SpaceInvaders"/>
         </div>   
         <div class="rightcolumn">
             <div class="main">
