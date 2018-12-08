@@ -1,6 +1,6 @@
 <html>
     <head>
-        <link rel="stylesheet" href="assets/styles/styles.css">
+        <link rel="stylesheet" href="styles.css">
         <link rel="shortcut icon" href="assets/images/heavy-rain-hd-origami-two-column-01-ps4-eu-09mar16.png" /> 
         
     </head>
@@ -74,8 +74,7 @@
         <div class="footer">
             <h2>
                 <a href="https://streetfighter.com/">Official Website</a>
-                |
-                <a href="https://www.amazon.de/2K-Games-40116-Bioshock/dp/B001BYIGE6/ref=sr_1_2?s=videogames&ie=UTF8&qid=1544178871&sr=1-2&keywords=bioshock+ps3" target="_blank">Buy the game</a>
+                <a href="http://emulator.online/tags/street-fighter/">Play the game</a>
             </h2>
         </div>
     </body>
