@@ -16,12 +16,12 @@
                 <a href="#Manee">Xbox</a>
               </div>
             </div> 
-            <a href="TheLastOfUs.html">The Last of Us</a>
-            <a href="Bioshock.html">Bioshock</a>
-            <a href="HeavyRain.html">Heavy Rain</a>
+            <a href="StreetFighterIITheWorldWarrior.html">Street Fighter II: The World Warrior</a>
+            <a href="SpaceInvaders.html">Space Invaders</a>
+            <a href="PacMan.html">Pac Man</a>
         </div>
         <div class="header">
-            <h2>Bioshock</h2>
+            <h2>Space Invaders</h2>
         </div>
         <br>
         <div class="leftcolumn">
@@ -29,27 +29,27 @@
             <table class="table">
                 <tr>
                     <th>Developer</th>
-                    <td>2K Boston, 2K Australia</td>
+                    <td>Taito</td>
                 </tr>
                 <tr>
                     <th>Publisher</th>
-                    <td>2K Games</td>
+                    <td>Taito, Midway, Leisure & Allied Industries</td>
                 </tr>
                 <tr>
-                    <th>Director</th>
-                    <td>Ken Levine</td>
+                    <th>Designer</th>
+                    <td>Tomohiro Nishikado</td>
                 </tr>
                 <tr>
                     <th>Platform</th>
-                    <td>PlayStation 3, PlayStation 4, PC, Xbox 360, Xbox One</td>
+                    <td>Arcade, Various</td>
                 </tr>
                 <tr>
                     <th>Release</th>
-                    <td>August 21, 2007</td>
+                    <td>June 1978</td>
                 </tr>
                 <tr>
                     <th>Genre</th>
-                    <td>First-person shooter</td>
+                    <td>Fixed shooter</td>
                 </tr>
                 <tr>
                     <th>Mode</th>
@@ -61,12 +61,13 @@
         <div class="rightcolumn">
             <div class="main">
                 <h3>Description</h3>
-                <p>BioShock is a first-person shooter video game series developed by Irrational Games—the first under the name 2K Boston/2K Australia—and designed by Ken Levine. The series is considered a spiritual successor to the System Shock series, on which many of Irrational's team including Levine had worked previously. Additionally, the series is notable for exploring philosophical concepts.</p>
-                <p>The first game in the series was released for the Windows operating system and Xbox 360 video game console on August 21, 2007 in North America, and on August 24 in Europe and Australia. A PlayStation 3 version of the game, which was developed by 2K Marin, was released internationally on October 17, 2008 and in North America on October 21, 2008 with some additional features.[4] The game was also released for the Mac OS X operating system on October 7, 2009. A version of the game for mobile platforms has also been developed by IG Fun. A sequel, BioShock 2, was released on February 9, 2010. On August 12, 2010, Irrational Games unveiled a trailer for a new game titled BioShock Infinite, released on March 26, 2013. With the release of BioShock Infinite selling over 11 million copies as of May 2015, the three games combined have more than 25 million copies sold.</p>
-                <p>A fourth game to the series is in reported development, under the working name Parkside.</p>
+                <p>Space Invaders is an arcade game created by Tomohiro Nishikado and released in 1978. It was manufactured and sold by Taito in Japan, and licensed in the United States by the Midway division of Bally. Space Invaders is one of the earliest shooting games; the aim is to defeat waves of aliens with a laser to earn as many points as possible.</p>
+                <p>Designer Nishikado drew inspiration from games such as Breakout and Gun Fight and science fiction stories such as The War of the Worlds, Space Battleship Yamato, and Star Wars. To complete it, he designed custom hardware and development tools. Space Invaders was one of the forerunners of modern video games, and helped expand the video game industry from a novelty to a global industry.</p>
+                <p>Space Invaders was an immediate commercial success. By 1982, it had grossed $2 billion, with a net profit of $450 million, making it the best-selling video game and highest-grossing entertainment product of its time. Adjusted for inflation, all versions of Space Invaders are estimated to have grossed over $13 billion in total revenue, making it the highest-grossing video game of all time.</p>
+                <p>The game has been the inspiration for other video games, re-released on numerous platforms, and led to several sequels. The 1980 Atari 2600 version quadrupled the system's sales and became the first "killer app" for video game consoles. Space Invaders has been referenced and parodied in multiple television shows, and been a part of several video game and cultural exhibitions. The pixelated enemy alien has become a pop culture icon, often representing video games as a whole.</p>
             </div>
             <div id="trailer">
-                <iframe width="964" height=" 542" src="https://www.youtube.com/embed/rrqfPG4ZcAA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+                <div style="position:relative;height:0;padding-bottom:56.27%"><iframe src="https://www.youtube.com/embed/MU4psw3ccUI?ecver=2" style="position:absolute;width:100%;height:100%;left:0" width="640" height="360" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
                 </iframe>
             </div>
         </div>
